@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1560780656,,"wq"
+|2,0,1560782165,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,29 @@
 # Registers:
 
 # File marks:
-'0  1  35  ~/readme
-|4,48,1,35,1560780656,"~/readme"
+'0  4  0  ~/ifrah
+|4,48,4,0,1560782165,"~/ifrah"
+'1  1  35  ~/readme
+|4,49,1,35,1560780656,"~/readme"
 
 # Jumplist (newest first):
+-'  4  0  ~/ifrah
+|4,39,4,0,1560782165,"~/ifrah"
+-'  1  0  ~/ifrah
+|4,39,1,0,1560782147,"~/ifrah"
+-'  1  35  ~/readme
+|4,39,1,35,1560780656,"~/readme"
 -'  1  35  ~/readme
 |4,39,1,35,1560780656,"~/readme"
 
 # History of marks within files (newest to oldest):
+
+> ~/ifrah
+	*	1560782163	0
+	"	4	0
+	^	4	0
+	.	3	0
+	+	3	0
 
 > ~/readme
 	*	1560780654	0
