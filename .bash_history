@@ -107,3 +107,121 @@ git log
 git push origin https://github.com/ifrahnazneen/devops1
 git remote add origin https://github.com/ifrahnazneen/devops1
 git remote -v
+ls -ltr
+git fetch
+git log oneline
+git log
+cd .ssh
+cat id_rsa.pub
+sshkeygen -t rsa -c "ifrahnazneen@gmail.com"
+ssh-keygen -t rsa -c "ifrahnazneen@gmail.com"
+ssh-keygen -t rsa -C "ifrahnazneen@gmail.com"
+cat id_rsa.pub
+ssh-keygen -t rsa -C "ifrah new"
+y
+cat id_rsa.pub
+which keygen
+ssh keygen
+ssh-keygen
+cd /root/.ssh/id_rsa
+cd home
+cd
+git remote -v
+git remote -v add origin git@github.com:ifrahnazneen/devops1.git
+git status
+vi readme
+git add.
+git add .
+git status
+git commit -m "ssh example"
+git log --oneline
+git push origin master
+ssh-keygen -t rsa -C "ifrah Keys"
+cat id_rsa.pub
+cd .ssh
+cat id_rsa.pub
+git remote -v
+git remote add origin git@github.com:ifrahnazneen/devops1.git
+cd
+git status
+git log --oneline
+git push origin master
+ssh-keygen
+cat .ssh/id_rsa.pub.
+cat /.ssh/id_rsa.pub.
+cd .ssh
+cat id_rsa.pub
+ssh-keygen -t rsa -C "new pair of keys"
+cat id_rsa.pub
+cd
+git push origin master
+git status
+vi ifrah
+git add .
+git status
+git commit -m "new example"
+git log --oneline
+git remotwe add origin git@github.com:ifrahnazneen/devops1.git
+git remote add origin git@github.com:ifrahnazneen/devops1.git
+git status
+git push origin master
+clear
+ls -ltr
+ls -l
+ssh -keygen
+ssh -key gen
+ssh -keygen -t rsa -C "very new key gen for ifrah"
+cd .ssh
+ssh -keygen
+ssh -keygen -t rsa -C "very new key"
+ssh-keygen
+cat id_rsa.pub
+cd
+git remote -v
+git remote add origin git@github.com:ifrahnazneen/devops1.git
+vi ifrah
+git add .
+git status
+git commit -m "very very new"
+git log --oneline
+git push origin master
+git remote --help
+ssh-keygen
+cat id_rsa.pub
+cd ssh
+cd .ssh
+cat id_rsa.pub
+cd
+git remote -v
+git remote add origin git@github.com:ifrahnazneen/devops1.git
+git remove origin
+git remote remove origin
+git remote add origin git@github.com:ifrahnazneen/devops1.git
+git status
+vi readme
+git add .
+git status
+git commit -m "new changes"
+git log --oneline
+git push origin master
+git status
+git branch 
+git revert
+git log --oneline
+git reset --soft 8782bfe
+git status
+git commit -m "reset"
+git log
+git statis
+git status
+git reset 8782bfe
+git add .
+git status
+git push origin master
+vi jenkins
+git add .
+git status
+git push origin master
+git commit -m "jenkins"
+git push origin master
+git pull origin master
