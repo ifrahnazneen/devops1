@@ -225,3 +225,18 @@ git push origin master
 git commit -m "jenkins"
 git push origin master
 git pull origin master
+git status
+git log --oneline
+git reset --help
+git reset --soft 02824a5
+git status
+git commit -m "example reset"
+git log
+git status
+git reset 02824a5
+git add .
+git status
+git commit -m "example"
+git log
+git push origin master
+git push origin+master
